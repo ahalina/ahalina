@@ -25,7 +25,7 @@
   |:---:|:---:|:---:|
   | Управление задачами с анимациями | Лендинг ресторана | Приложение для пар с облаком |
   | `HTML/CSS/JS` | `HTML/CSS/JS` | `Vue/Firebase` |
-  | [🔗 Смотреть](https://github.com/ahalina/todolist.git) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
+  | [🔗 Смотреть](https://github.com/ahalina/todolist.git) | [🔗 Смотреть](https://github.com/ahalina/ahalina.github.io.git) | [🔗 Смотреть](https://github.com/ahalina/love-site.git) |
 
 </div>
 
