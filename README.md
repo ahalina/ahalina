@@ -17,10 +17,7 @@
 
 <h3 align="center">📊 Статистика</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alliinka4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliinka4&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alliinka4&theme=tokyonight" />
@@ -34,7 +31,7 @@
   |:---:|:---:|:---:|
   | Управление задачами с анимациями | Лендинг ресторана | Приложение для пар с облаком |
   | `HTML/CSS/JS` | `HTML/CSS/JS` | `Vue/Firebase` |
-  | [🔗 Смотреть]([ссылка](https://github.com/ahalina/todolist.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
+  | [🔗 Смотреть]([https://github.com/ahalina/todolist.git]) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
 
 </div>
 
