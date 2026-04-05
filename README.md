@@ -15,13 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
-<h3 align="center">📊 Статистика</h3>
 
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alliinka4&theme=tokyonight" />
-</p>
 
 <h3 align="center">🚀 Мои проекты</h3>
 
@@ -31,7 +25,7 @@
   |:---:|:---:|:---:|
   | Управление задачами с анимациями | Лендинг ресторана | Приложение для пар с облаком |
   | `HTML/CSS/JS` | `HTML/CSS/JS` | `Vue/Firebase` |
-  | [🔗 Смотреть]([https://github.com/ahalina/todolist.git]) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
+  | [🔗 Смотреть](https://github.com/ahalina/todolist.git) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
 
 </div>
 
