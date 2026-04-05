@@ -34,7 +34,7 @@
   |:---:|:---:|:---:|
   | Управление задачами с анимациями | Лендинг ресторана | Приложение для пар с облаком |
   | `HTML/CSS/JS` | `HTML/CSS/JS` | `Vue/Firebase` |
-  | [🔗 Смотреть](ссылка) | [🔗 Смотреть](ссылка) | [🔗 Смотреть](ссылка) |
+  | [🔗 Смотреть]([ссылка](https://github.com/ahalina/todolist.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/ahalina.github.io.git)) | [🔗 Смотреть]([ссылка](https://github.com/ahalina/love-site.git)) |
 
 </div>
 
@@ -43,14 +43,7 @@
 <p align="center">
   <a href="https://t.me/alliinka4">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:ваша@почта.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/alliinka4">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  </a> </p>
 
 
 <div align="center">
